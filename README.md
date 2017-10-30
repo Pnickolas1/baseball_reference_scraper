@@ -1,2 +1,5 @@
-# baseball_reference_scraper
-A python script that scrapes baseball reference
+# A Webscraper
+
+### Notes:
+
+- python version 3.6.3
