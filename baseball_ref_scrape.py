@@ -5,7 +5,7 @@ from io import BytesIO
 from selenium import webdriver
 import requests
 versionCode = platform.python_version()
-print ("Python version ", versionCode)
+print("Python version ", versionCode)
 
 
 url = "https://unsplash.com"

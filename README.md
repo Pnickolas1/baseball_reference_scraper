@@ -1,15 +1,10 @@
-<<<<<<< HEAD
 # Python Webscraper
 
-
-
-### Notes:
-
 - Python version 3.6.3
-=======
-# A Webscraper
+- Utilizes geckodriver for connection to browser
+- Add geckodriver to path PATH=$PATH/path/to/geckodriver
 
-### Notes:
 
-- python version 3.6.3
->>>>>>> 49c14f59771cb58710ca19ca460b8e64eccf9a85
+
+### Geckodriver
+https://github.com/mozilla/geckodriver/releases
